@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 11 Feb 2023 14:04:20 at https://cursosfree7.blogspot.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://cursosfree7.blogspot.com
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://cursosfree7.blogspot.com -O1 "C:\Meus Sites\s" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://cursosfree7.blogspot.com )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 26 links scanned, 25 files written (2913004 bytes overall) [1067789 bytes received at 56199 bytes/sec], 2406395 bytes transferred using HTTP compression in 16 files, ratio 22%
+(No errors, 0 warnings, 0 messages)
